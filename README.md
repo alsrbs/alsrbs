@@ -8,3 +8,4 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alsrbs&theme=github-compact&hide_title=true&hide_border=ture)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaalsrbs)](https://solved.ac/rlaalsrbs/)
