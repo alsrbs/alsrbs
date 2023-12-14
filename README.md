@@ -2,4 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsrbs&show_icons=true&theme=merko&bg_color=00000000&locale=kr)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alsrbs&repo=BlockStock)](https://github.com/alsrbs/BlockStock)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsrbs&langs_count=8&layout=compact)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alsrbs&theme=github-compact)](https://github.com/alsrbs/github-readme-activity-graph)
